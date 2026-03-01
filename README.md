@@ -223,8 +223,3 @@ Metrics reported:
    sensor noise.** IEEE TIFS.
 
 ---
-
-## License
-
-MIT — built for hackathon demonstration. Not for production forensic use
-without proper validation on target datasets.
