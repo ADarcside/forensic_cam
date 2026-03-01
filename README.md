@@ -1,4 +1,4 @@
-# 🔬 Forensic Camera Model Identification System
+#  Forensic Camera Model Identification System
 
 > Signal-level camera fingerprinting — **zero metadata, pixel signals only**
 
@@ -202,12 +202,12 @@ Metrics reported:
 
 ## Web Interface Features
 
-- 📤 **Image upload** — any JPEG, PNG, TIFF
-- 🖼️ **Original + Noise Heatmap** — side-by-side
-- 📊 **FFT Spectrum** — interactive Plotly visualization
-- 📈 **Confidence chart** — ranked probability bars
-- 🛡️ **Robustness panel** — JPEG/resize/noise degradation testing
-- ⚡ **Zero EXIF** — metadata stripped at load time
+-  **Image upload** — any JPEG, PNG, TIFF
+-  **Original + Noise Heatmap** — side-by-side
+-  **FFT Spectrum** — interactive Plotly visualization
+-  **Confidence chart** — ranked probability bars
+-  **Robustness panel** — JPEG/resize/noise degradation testing
+-  **Zero EXIF** — metadata stripped at load time
 
 ---
 
